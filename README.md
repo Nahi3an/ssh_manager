@@ -8,3 +8,7 @@ Simple script file which let user to add multilple clients ssh for git
 
 #Terminal View
 ![Project Screenshot](assets/image.png)
+
+# Use Case Example
+## git remote add origin git@github-personal:Nahi3an/ssh_manager.git
+## git clone git@github-personal:Nahi3an/ssh_manager.git
